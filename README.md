@@ -21,7 +21,6 @@ Registrar minha evolução no aprendizado de lógica de programação e algoritm
 
 - `enunciados/`: propostas originais dos exercícios.
 - `notebooks/`: códigos e resoluções desenvolvidos em Python.
-- `material-original.pdf`: material de referência da disciplina.
 
 ## Tecnologias
 
